@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/hobaDevHome/colors/static/css/main.9f3b6256.chunk.css",
+    "main.js": "/hobaDevHome/colors/static/js/main.590ce5c3.chunk.js",
+    "main.js.map": "/hobaDevHome/colors/static/js/main.590ce5c3.chunk.js.map",
+    "runtime-main.js": "/hobaDevHome/colors/static/js/runtime-main.bc3c68a5.js",
+    "runtime-main.js.map": "/hobaDevHome/colors/static/js/runtime-main.bc3c68a5.js.map",
+    "static/js/2.cdd6e70d.chunk.js": "/hobaDevHome/colors/static/js/2.cdd6e70d.chunk.js",
+    "static/js/2.cdd6e70d.chunk.js.map": "/hobaDevHome/colors/static/js/2.cdd6e70d.chunk.js.map",
+    "index.html": "/hobaDevHome/colors/index.html",
+    "precache-manifest.5840dc71e67415c29159bcb846b9fbaa.js": "/hobaDevHome/colors/precache-manifest.5840dc71e67415c29159bcb846b9fbaa.js",
+    "service-worker.js": "/hobaDevHome/colors/service-worker.js",
+    "static/css/main.9f3b6256.chunk.css.map": "/hobaDevHome/colors/static/css/main.9f3b6256.chunk.css.map",
+    "static/js/2.cdd6e70d.chunk.js.LICENSE.txt": "/hobaDevHome/colors/static/js/2.cdd6e70d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bc3c68a5.js",
+    "static/js/2.cdd6e70d.chunk.js",
+    "static/css/main.9f3b6256.chunk.css",
+    "static/js/main.590ce5c3.chunk.js"
+  ]
+}
